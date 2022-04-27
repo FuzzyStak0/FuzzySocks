@@ -1,0 +1,286 @@
+a.active{
+    color: #076202 !important;
+}
+
+#header .header-nav.header-nav-links nav > ul li:hover > a {
+    color: #076202 !important;
+}
+
+div.custom-element{
+    background-color: #076202 !important;
+}
+
+.custom-element-wrapper.custom-element-11::before {
+    background: #076202;
+}
+
+hr.bg-primary{
+    background-color: #076202 !important;
+}
+
+.logo-heading{
+    color: #8C0000;
+    line-height: 20px;
+}
+
+.logo-heading:hover{
+    color: #076202;
+}
+
+p.mb-0{
+    font-size: 16px;
+}
+
+ul.list-group-numbered li{
+    font-size: 16px;
+}
+
+span.thumb-info-type{
+    background-color: #8C0000 !important;
+}
+
+span.thumb-info-caption-text{
+    height: 250px;
+}
+
+img.img-fluid.rounded{
+    height: 100px;
+}
+
+.margin-box-owl{
+    margin: 0px 0px 32px 80px;
+}
+
+.overlay-color-success{
+    background-color: #076202 !important;
+}
+.pb-4-5-alt{
+    padding-bottom: 2rem;
+}
+
+button.owl-prev span, button.owl-next span{
+    opacity: 0 !important;
+}
+div.owl-stage-outer{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.pb-45{
+    padding-bottom: 35px;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #076202, rgba(0, 0, 0, 0));
+    max-width: 80% !important;
+    margin: auto;
+      margin-top: auto;
+  }
+
+.pb-15{
+    padding-bottom: 9rem;
+}
+.pt-15{
+    padding-top: 9rem;
+}
+
+.default-bg{
+    background: #076202;
+}
+
+.b-2{
+    bottom: 1.3rem;
+}
+
+h4.card-title.mt-2::after{
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 20%; 
+    padding-top: 10px; 
+    border-bottom: 1px solid #000000; 
+    
+}
+
+.text-darkest{
+    color: #000000 !important;
+}
+
+/* pagination */
+
+
+
+.simple-pagination ul {
+	margin: 0 0 20px;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+.simple-pagination li {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.simple-pagination li a,
+.simple-pagination li span {
+	color: #8C0000;
+	padding: 5px 10px;
+	text-decoration: none;
+	border: 1px solid #EEE;
+	background-color: #FFF;
+	box-shadow: 0px 0px 10px 0px #EEE;
+}
+
+.simple-pagination .current {
+	color: #FFF;
+	background-color: #8C0000;
+	border-color: #8C0000;
+}
+
+.simple-pagination .prev.current,
+.simple-pagination .next.current {
+	background: #8C0000;
+}
+
+.page-link:hover{
+    color: #076202 !important;
+}
+
+/* pagination end */
+
+/* shaper */
+
+.custom-shape-divider-bottom-1647524149 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1647524149 svg {
+    position: relative;
+    display: block;
+    width: calc(199% + 1.3px);
+    height: 99px;
+}
+
+.custom-shape-divider-bottom-1647524149 .shape-fill {
+    fill: #076202;
+}
+
+.custom-shape-divider-top-1647524741 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1647524741 svg {
+    position: relative;
+    display: block;
+    width: calc(123% + 1.3px);
+    height: 93px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1647524741 .shape-fill {
+    fill: #076202;
+}
+
+/* shaper end */
+
+
+/* responsive */
+
+@media only screen and (max-width: 767px) {
+    .text-justify {
+        text-align: left !important;
+    }
+    .d-xs-none{
+        display: none !important;
+    }
+    p.line-height-5, p.text-3-5{
+        line-height: 22px !important;
+    }
+    div.ms-5{
+        margin-left: 0 !important;
+    }
+    div.col-lg-6.text-center.p-relative.pt-5, div.col-lg-4.text-center.p-relative.pt-5{
+        padding: 70px !important;
+        margin-left: 10px !important;
+    }
+    .top-10-px{
+        top: 10px;
+    }
+    ul li.text-justify{
+        line-height: 16px;
+        padding-bottom: 10px;
+    }
+    div.card-body p, ul.list-group-numbered li{
+        line-height: 20px;
+    }
+    span.thumb-info-caption-text{
+        line-height: 16px !important;
+        height: 225px !important;
+    }
+    div.row.pt-5.mt-5.pb-5.mb-5{
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    section.section{
+        padding-bottom: 0px !important;
+    }
+    div.container.pt-5.mt-3.pb-0{
+        padding-top: 0px !important;
+        margin-top: 0px !important;
+    }
+    h1{
+        line-height: 32px;
+    }
+    div.col-12.col-lg-7.p-relative{
+        margin-top: 0px !important
+    }
+    .mt-6{
+        margin-top: 32px !important;
+    }
+    div.card-body.p-5{
+        padding: 20px !important;
+    }
+    ul.nav.nav-pills li{
+        font-size: 12px !important;
+    }
+    section.page-header div.container div.py-5{
+        padding-top: 6rem !important;
+    }
+}
+
+@media (min-width: 992px){
+    .none-d{
+        display: none !important;
+    }
+    .border-left{
+        border-left: 1px solid black !important;
+        height: 1em;
+    }
+    a.d-xl-block{
+        display: block !important;
+    }
+    .h-104{
+        height: 104px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    nav.collapse li a{
+        font-size: 11px !important;
+    }
+}
