@@ -1,2 +1,1 @@
 # FuzzySocks
-# Nesto sam izmenio
